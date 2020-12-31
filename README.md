@@ -1,6 +1,6 @@
 # Project Euler Solutions for 1 to 100
 
-## It is advised if you are undertaking to solve Project Euler, refer mathematical algoritms not solutions though these are my solutions for the project euler.
+## It is advised if you are undertaking to solve Project Euler, refer mathematical algorithms not solutions though these are my solutions for the project euler.
 
 ### These will be completed as I solve them[ONLY TILL PROBLEM 100]
 
